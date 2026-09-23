@@ -1,0 +1,19 @@
+# Build output
+/build/
+*.dll
+*.exp
+*.lib
+*.obj
+*.pdb
+
+# Cloned dependencies (fetch these yourself - see README)
+/REFramework/
+/sol2/
+/LuaJIT/
+
+# Editor / OS cruft
+.vs/
+.vscode/
+*.user
+Thumbs.db
+.DS_Store
